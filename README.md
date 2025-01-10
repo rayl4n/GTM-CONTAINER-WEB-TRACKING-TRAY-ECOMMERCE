@@ -43,6 +43,8 @@ Custom HTML|Model intended for creating cookies for userData
 
 # Other (not included)
 
+TAG|Description
+:----|:----
 [VisitorAPI](https://github.com/visitorapi/visitor-api-google-tag-manager)|Geolocation capture
 
 
