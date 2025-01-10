@@ -36,7 +36,7 @@ TAG|Description
 :----|:----
 Tag of Google|Required for GA4 event submissions
 Google Analytics: events GA4|Use the standard tag or use a [Stape GA4 Advanced tag](https://github.com/stape-io/ga4-advanced-tag).
-Facebook Pixel|[Facebook-archive template](https://github.com/kaustubhhiware) 
+Facebook Pixel|[Facebook-archive template](https://github.com/facebookarchive/GoogleTagManager-WebTemplate-For-FacebookPixel) 
 Google Ads Remarketing|Google
 Google Ads Conversion tracking|Google
 Custom HTML|Model intended for creating cookies for userData
